@@ -1,7 +1,5 @@
 # Қара Қатын Telegram Bot
 
-`mushka-bot` стиліне ұқсас бір файлдық TypeScript Telegram бот.
-
 ## Орнату
 
 ```bash
